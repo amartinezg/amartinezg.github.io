@@ -2,4 +2,4 @@
 source "https://rubygems.org"
 ruby "2.5.1"
 # gem "rails"
-gem 'rack'
+gem 'rack', '>= 2.0.9.1'
